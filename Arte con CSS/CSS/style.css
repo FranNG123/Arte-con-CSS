@@ -1,0 +1,29 @@
+div.Pan{
+    width: 550px;
+    height: 70px;
+    background-color: burlywood;
+    margin: 0px auto;
+}
+div.Salchicha{
+    width: 620px;
+    height: 70px;
+    background-color: brown;
+    border-radius: 100px;
+    margin: 0px auto;
+}
+#Pan1{
+    border-radius: 100px;
+    border-bottom: solid;
+    border-bottom-width: 13px;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+    border-bottom-color: #C8AD7F;
+}
+#Pan3{
+    border-radius: 100px;
+    border-top: solid;
+    border-top-width: 13px;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    border-top-color: #C8AD7F;
+}
